@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-/* v0.1.0 */
-=======
+
 /* v0.2.0 */
->>>>>>> v.0.2.0
 
 .head {
     color:blueviolet
@@ -36,6 +33,7 @@ ul li a {
     color: black;
     font-weight: bolder;
     text-decoration:none;
+    font-family: 'Sunflower', sans-serif;
 }
 
 .block{
